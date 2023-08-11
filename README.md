@@ -56,5 +56,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-![Screenshot 2023-08-11 183457](https://github.com/upesic1512/Full-Stack-Spotify/assets/108237723/228fb3bf-46f8-4f01-b53b-471d5d485ae2)![Screenshot 2023-08-11 183509](https://github.com/upesic1512/Full-Stack-Spotify/assets/108237723/10ee09c2-fc78-4a2e-83fc-38d63de0bc83)![Screenshot 2023-08-11 183531](https://github.com/upesic1512/Full-Stack-Spotify/assets/108237723/eefbc879-0417-40b5-a6b1-9c1724c92457)
+
 
