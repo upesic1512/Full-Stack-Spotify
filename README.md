@@ -34,10 +34,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-##Features
+## Features
 
--Song upload
+
 - Supabase and PostgreSQL Database handling
+- Song upload
 - Tailwind design for sleek UI
 - Tailwind animations and transition effects
 - Full responsiveness for all devices
